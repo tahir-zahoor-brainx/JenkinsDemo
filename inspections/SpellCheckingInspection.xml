@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/brainx/jenkindemo/ExampleInstrumentedTest.kt</file>
+    <line>22</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/brainx/jenkindemo/ExampleInstrumentedTest.kt" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'brainx'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/brainx/jenkindemo/ExampleInstrumentedTest.kt</file>
+    <line>22</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/brainx/jenkindemo/ExampleInstrumentedTest.kt" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'jenkindemo'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/values/strings.xml</file>
+    <line>2</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Jenkin'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml</file>
+    <line>3</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'brainx'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml</file>
+    <line>3</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'jenkindemo'</description>
+  </problem>
+</problems>
+
