@@ -2,6 +2,7 @@
 <lint>
     <issue id="MissingTranslation" severity="warning" />
     <issue id="ContentDescription" severity="ignore" />
+    <issue id="Autofill" severity="warning" />
     <issue id="MissingVersion">
         <ignore path="AndroidManifest.xml" />
     </issue>

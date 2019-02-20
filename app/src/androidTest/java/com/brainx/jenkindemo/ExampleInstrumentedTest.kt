@@ -21,4 +21,11 @@ class ExampleInstrumentedTest {
         val appContext = InstrumentationRegistry.getTargetContext()
         assertEquals("com.brainx.jenkindemo", appContext.packageName)
     }
+
+    @Test
+    fun isPasswordValid() {
+        val password = "Qwertyuiop1"
+        val result = AppUtils.isPasswordValid(password)
+        assertEquals(result, true)
+    }
 }

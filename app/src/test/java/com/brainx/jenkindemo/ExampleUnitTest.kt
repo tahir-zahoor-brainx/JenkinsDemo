@@ -14,4 +14,10 @@ class ExampleUnitTest {
     fun addition_isCorrect() {
         assertEquals(4, 2 + 2)
     }
+    @Test
+    fun isPasswordValid() {
+        val password = "Qwertyuiop1"
+        val result = AppUtils.isPasswordValid(password)
+        assertEquals(result, true)
+    }
 }

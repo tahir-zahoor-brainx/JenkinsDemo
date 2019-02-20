@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Feb 20 16:15:56 PKT 2019
+1.base=D\:\\brainx\\demo\\JenkinsDemo\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\brainx\\demo\\JenkinsDemo\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\out
+1.path=classes.dex
