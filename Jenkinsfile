@@ -6,12 +6,12 @@ pipeline {
   }
   stages {
     stage('Building') {
-        try {
-             sh './build.sh'
-        } finally {
-            echo '[FAILURE] Failed to build'
-        }
+          try {
+               sh './build.sh'
+          } finally {
+              echo '[FAILURE] Failed to build'
+          }
     }
-    }
+  }
 
 }
