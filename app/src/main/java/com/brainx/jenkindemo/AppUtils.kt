@@ -10,6 +10,7 @@ object AppUtils {
         val passwordPattern = "^(?=.*?[A-Z])(?=.*?[0-9]).{5,}\$"
         pattern = Pattern.compile(passwordPattern)
         matcher = pattern.matcher(password)
+
         return matcher.matches() && password.length > 4
     }
 }
