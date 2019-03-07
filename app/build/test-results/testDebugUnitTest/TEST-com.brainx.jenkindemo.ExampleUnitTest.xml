@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.brainx.jenkindemo.ExampleUnitTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-02-20T11:17:19" hostname="DESKTOP-TM3C7GA" time="0.005">
-  <properties/>
-  <testcase name="isPasswordValid" classname="com.brainx.jenkindemo.ExampleUnitTest" time="0.005"/>
-  <testcase name="addition_isCorrect" classname="com.brainx.jenkindemo.ExampleUnitTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

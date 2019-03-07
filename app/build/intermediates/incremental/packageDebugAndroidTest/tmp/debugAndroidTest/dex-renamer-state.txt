@@ -1,7 +1,0 @@
-#Wed Feb 20 16:15:56 PKT 2019
-base.0=D\:\\brainx\\demo\\JenkinsDemo\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\out
-path.1=classes.dex
-renamed.1=classes2.dex
-path.0=classes.dex
-renamed.0=classes.dex
-base.1=D\:\\brainx\\demo\\JenkinsDemo\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\out
